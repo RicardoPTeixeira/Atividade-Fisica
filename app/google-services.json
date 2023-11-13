@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "700498683799",
+    "project_id": "atividade-fisica-c6e38",
+    "storage_bucket": "atividade-fisica-c6e38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700498683799:android:d60b33c16d1470d30f86d2",
+        "android_client_info": {
+          "package_name": "com.ricardo.atividadefisica"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAElFLXp3w8-VMrFqHfduwfGQ4YrzMYNBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
